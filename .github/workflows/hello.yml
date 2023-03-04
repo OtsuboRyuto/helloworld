@@ -1,6 +1,6 @@
 name: "hello world"
 on: 
-  push : {"tags" : ["v*"]}
+  push : {"tags" : ["v1"]}
 jobs:
   sample:
     name: hello world
